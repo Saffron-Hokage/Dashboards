@@ -48,11 +48,7 @@ Feel free to experiment, customize, and learn from the provided examples!
 
 ## Contributing
 
-Contributions are welcome! If you'd like to add your own visualization or improve existing ones, please follow the guidelines in [CONTRIBUTING.md](contributing.md).
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Contributions are welcome! If you'd like to add your own visualization or improve existing ones.
 
 ---
 
