@@ -48,7 +48,7 @@ Feel free to experiment, customize, and learn from the provided examples!
 
 ## Contributing
 
-Contributions are welcome! If you'd like to add your own visualization or improve existing ones, please follow the guidelines in [CONTRIBUTING.md](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif).
+Contributions are welcome! If you'd like to add your own visualization or improve existing ones, please follow the guidelines in [CONTRIBUTING.md](contributing.md).
 
 ## License
 
@@ -58,4 +58,4 @@ This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE
 
 **Happy Visualizing!**
 
-![Data Visualization](visual_element.png)
+![Data Visualization](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
