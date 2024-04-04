@@ -1,0 +1,415 @@
+warehouse 4
+shipment: 3
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 4
+ discount: 1
+ warehouse 4
+shipment: 1
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 4
+ discount: 5
+ warehouse 4
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 4
+ discount: 2
+ warehouse 4
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 5
+ discount: 2
+ warehouse 4
+shipment: 3
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 5
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 2
+cost: 5
+ discount: 1
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 2
+cost: 5
+ discount: 1
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 2
+gender: 2 weight: 2
+cost: 5
+ discount: 1
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 2
+gender: 2 weight: 2
+cost: 5
+ discount: 2
+ warehouse 4
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 2
+gender: 2 weight: 2
+cost: 5
+ discount: 2
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 2
+gender: 2 weight: 2
+cost: 5
+ discount: 2
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 2
+gender: 2 weight: 2
+cost: 5
+ discount: 3
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 2
+gender: 2 weight: 2
+cost: 5
+ discount: 3
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 2
+gender: 2 weight: 2
+cost: 8
+ discount: 3
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 2
+cost: 4
+ discount: 2
+ warehouse 5
+shipment: 2
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 4
+ discount: 2
+ warehouse 5
+shipment: 3
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 4
+ discount: 2
+ warehouse 5
+shipment: 3
+cc  4
+rating 4
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 4
+cost: 6
+ discount: 2
+ warehouse 4
+shipment: 3
+cc  2
+rating 5
+prior_purchase: 4
+importance: 1
+gender: 1 weight: 4
+cost: 7
+ discount: 2
+ warehouse 4
+shipment: 3
+cc  2
+rating 5
+prior_purchase: 4
+importance: 1
+gender: 1 weight: 2
+cost: 7
+ discount: 2
+ warehouse 4
+shipment: 3
+cc  2
+rating 5
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 4
+cost: 7
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 2
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 3
+cost: 9
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 2
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 3
+cost: 9
+ discount: 4
+ warehouse 5
+shipment: 1
+cc  3
+rating 2
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 3
+cost: 9
+ discount: 2
+ warehouse 5
+shipment: 3
+cc  3
+rating 2
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 3
+cost: 9
+ discount: 2
+ warehouse 5
+shipment: 3
+cc  3
+rating 2
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 3
+cost: 9
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 5
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 3
+cost: 9
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 5
+prior_purchase: 5
+importance: 1
+gender: 2 weight: 3
+cost: 9
+ discount: 2
+ warehouse 5
+shipment: 3
+cc  3
+rating 5
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 8
+cost: 9
+ discount: 3
+ warehouse 5
+shipment: 3
+cc  3
+rating 5
+prior_purchase: 4
+importance: 1
+gender: 2 weight: 8
+cost: 9
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 5
+prior_purchase: 2
+importance: 1
+gender: 2 weight: 2
+cost: 9
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 5
+prior_purchase: 2
+importance: 1
+gender: 2 weight: 2
+cost: 9
+ discount: 1
+ warehouse 4
+shipment: 3
+cc  2
+rating 5
+prior_purchase: 2
+importance: 1
+gender: 2 weight: 2
+cost: 9
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 4
+prior_purchase: 2
+importance: 1
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 4
+prior_purchase: 2
+importance: 1
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 3
+cc  3
+rating 4
+prior_purchase: 2
+importance: 1
+gender: 2 weight: 11
+cost: 8
+ discount: 3
+ warehouse 5
+shipment: 3
+cc  3
+rating 4
+prior_purchase: 8
+importance: 1
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 8
+importance: 1
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 8
+importance: 2
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 8
+importance: 3
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 10
+importance: 3
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 10
+importance: 3
+gender: 2 weight: 11
+cost: 8
+ discount: 5
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 4
+importance: 3
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 4
+importance: 3
+gender: 2 weight: 11
+cost: 8
+ discount: 3
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 4
+importance: 3
+gender: 2 weight: 11
+cost: 8
+ discount: 1
+ warehouse 5
+shipment: 1
+cc  3
+rating 4
+prior_purchase: 4
+importance: 3
+gender: 2 weight: 11
+cost: 8
+ discount: 3
+ 
